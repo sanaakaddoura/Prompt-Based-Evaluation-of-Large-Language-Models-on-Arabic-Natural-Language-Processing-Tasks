@@ -1,4 +1,4 @@
-# How Well Do Arabic Large Language Models Understand? A Prompt-Based Multi-Task Evaluation 
+# Prompt-Based Evaluation of Large Language Models on Arabic Natural Language Processing Tasks
 
 ## Description
 
